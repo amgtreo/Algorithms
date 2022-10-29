@@ -64,7 +64,7 @@ public class DSFBinaryTree {
 
     private static void printPreOrder(Node root){
         if(root== null) return;
-        System.out.print((char)root.data + " ");
+        System.out.print((char) root.data + " ");
         printPreOrder(root.left);
         printPreOrder(root.right);
     }

@@ -8,8 +8,5 @@ public class Palindrome {
 
     }
 
-    private boolean isPalindrome(String input){
-        char[] str = input.toCharArray();
-        Collections.sort(str);
-    }
+
 }
