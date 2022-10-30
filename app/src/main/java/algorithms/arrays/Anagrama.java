@@ -9,7 +9,7 @@ public class Anagrama {
     {
         // Check if length of both strings is same or not
         if (a.length() != b.length()) {
-            return false;
+            return false    ;
         }
         // Create a HashMap containing Character as Key and
         // Integer as Value. We will be storing character as
