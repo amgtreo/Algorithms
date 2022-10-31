@@ -1,5 +1,5 @@
-package trees.dfs;
-import trees.Node;
+package algorithms.trees.dfs;
+import algorithms.trees.Node;
 
 import java.util.ArrayList;
 import java.util.List;

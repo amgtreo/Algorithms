@@ -1,6 +1,6 @@
-package trees.dfs;
+package algorithms.trees.dfs;
 
-import trees.GraphNode;
+import algorithms.trees.GraphNode;
 
 import java.util.*;
 

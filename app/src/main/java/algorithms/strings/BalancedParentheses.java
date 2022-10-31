@@ -1,4 +1,4 @@
-package strings;
+package algorithms.strings;
 
 public class BalancedParentheses {
     static void balanceParenthesis(char str[], int pos, int n, int open, int close) {

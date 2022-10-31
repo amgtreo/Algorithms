@@ -1,4 +1,4 @@
-package trees.dfs;
+package algorithms.trees.dfs;
 
 import java.util.ArrayList;
 import java.util.List;

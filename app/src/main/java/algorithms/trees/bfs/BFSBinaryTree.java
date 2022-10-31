@@ -1,6 +1,6 @@
-package trees.bfs;
+package algorithms.trees.bfs;
 
-import trees.Node;
+import algorithms.trees.Node;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
